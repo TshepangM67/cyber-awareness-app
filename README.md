@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cybersecurity-Portfolio
 
 ## 👨🏽‍💻 About Me
