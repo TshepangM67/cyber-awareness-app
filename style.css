@@ -36,4 +36,29 @@ body {
     margin-top: 1rem;
     font-weight: bold;
   }
+  /* Style for the quiz section */
+#quiz {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  #quiz button {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #quiz button:hover {
+    background-color: #218838;
+  }
+  
+  #quizFeedback {
+    font-weight: bold;
+    margin-top: 1rem;
+  }
   
