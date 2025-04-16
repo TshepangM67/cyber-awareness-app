@@ -94,7 +94,5 @@ Alternatively, you can open the project in VS Code and use the Live Server exten
 
 - Improve the UI/UX design for a more professional look.
 
-# License
-This project is open-source and available under the MIT License.
 
->>>>>>> 53c6aaccf6e6417943f91d9fd4f667acc334395c
+
